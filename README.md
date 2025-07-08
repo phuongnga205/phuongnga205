@@ -1,7 +1,9 @@
 # 👋 Hello! I'm Le Ngoc Phuong Nga
 
 🎓 I'm a second-year student at the University of Information Technology
+
 💡 Passionate about AI, data-driven systems, and real-world applications of machine learning  
+
 📍 Currently building foundational and practical skills through self-directed projects
 
 ---
